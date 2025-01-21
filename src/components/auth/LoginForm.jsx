@@ -1,3 +1,4 @@
+import axios from "axios";
 import { useForm } from "react-hook-form";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../../hooks/useAuth";
@@ -11,17 +12,38 @@ const LoginForm = () => {
     register,
     handleSubmit,
     formState: { errors },
+    setError,
   } = useForm();
 
-  const submitForm = (formData) => {
-    console.log(formData);
-
+  const submitForm = async (formData) => {
+    // console.log(formData);
     // Make an api call
     // Will Return Tokens and Logged in User Information
 
-    const user = { ...formData };
-    setAuth({ user });
-    navigate("/");
+    try {
+      const response = await axios.post(
+        `${import.meta.env.VITE_SERVER_BASE_URL}/auth/login`,
+        formData
+      );
+
+      if (response.status === 200) {
+        const { token, user } = response.data;
+
+        if (token) {
+          const authToken = token.token;
+          const refreshToken = token.refreshToken;
+          console.log(`Login time auth token: ${authToken}`);
+          setAuth({ user, authToken, refreshToken });
+          navigate("/");
+        }
+      }
+    } catch (error) {
+      console.error(error);
+      setError("root.random", {
+        type: "random",
+        message: `User with email ${formData.email} is not found`,
+      });
+    }
   };
 
   return (
@@ -59,6 +81,8 @@ const LoginForm = () => {
             id="password"
           ></input>
         </Field>
+
+        <p>{errors?.root?.random?.message}</p>
 
         <Field>
           <button className="auth-input bg-lwsGreen font-bold text-deepDark transition-all hover:opacity-90">

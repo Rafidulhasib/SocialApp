@@ -1,0 +1,606 @@
+{
+  "posts": [
+    {
+      "id": "114d6b94-fc94-4d3c-ad86-720a18eaf437",
+      "content": "Part of our LWS Support Team ❤️",
+      "image": "uploads/posts/image-1708777029165-711540010.jpg",
+      "postType": "image",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708776329024-653677858.png"
+      },
+      "comments": [
+        {
+          "id": "5425e388-918e-4675-b003-131c5afc4d54",
+          "comment": "সবাইকে অনেক ভালো লাগছে 😍",
+          "createdAt": "2024-02-24T12:35:17.471Z",
+          "author": {
+            "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
+            "name": "Tapas Adhikary",
+            "avatar": "uploads/avatar/avatar-1708770640883-148182382.png"
+          }
+        },
+        {
+          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
+          "comment": "Take love ❤️🔥",
+          "createdAt": "2024-02-24T12:36:38.047Z",
+          "author": {
+            "id": "ea168626-058e-49dd-b23c-3000e7bd0172",
+            "name": "Akash Ahmed",
+            "avatar": "uploads/avatar/akash.png"
+          }
+        },
+        {
+          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
+          "comment": "❤️🔥",
+          "createdAt": "2024-02-24T12:36:38.047Z",
+          "author": {
+            "id": "ea168626-058e-49dd-b23c-3000e7bd0173",
+            "name": "MD Salahuddin",
+            "avatar": "salahuddin@email.com"
+          }
+        },
+        {
+          "id": "6b11cbd5-6600-45fa-a586-459d602e321f",
+          "comment": "I am Good",
+          "createdAt": "2024-02-24T21:44:11.924Z",
+          "author": {
+            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+            "name": "Saad Hasan",
+            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+          }
+        },
+        {
+          "id": "9a5453cd-a61c-4b4f-b24b-ad846484c3e5",
+          "comment": "Great show",
+          "createdAt": "2024-02-24T21:46:10.153Z",
+          "author": {
+            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+            "name": "Saad Hasan",
+            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+          }
+        }
+      ],
+      "likes": [
+        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf"
+      ],
+      "createAt": "2024-02-24T12:17:09.169Z"
+    },
+    {
+      "id": "fe48c0d2-6b86-4a18-a746-a4253a085421",
+      "content": "সেই ২০২০ সাল থেকে বিগিনার থেকে শুরু করে ইন্টারমিডিয়েট লেভেল পর্যন্ত ওয়েব ডেভেলপারদেরকে জাভাস্ক্রিপ্ট এবং রিয়্যাক্ট শিখাচ্ছি। এই ৩ বছর ধরে অর্জিত আমার অভিজ্ঞতা থেকে আমি বুঝতে পেরেছি, বর্তমান সময়ে ওয়েব ডেভেলপারদের মূল যে জায়গাটায় গ্যাপ রয়েছে সেটা হলো, রিয়্যাক্টিভ ওয়েব ডেভেলপমেন্টের মৌলিক বিষয় গুলো এবং জটিল কনসেপ্ট গুলো সম্পর্কে পরিপূর্ণ ধারণার অভাব। সেই সাথে এই প্রতিযোগিতাপূর্ণ মার্কেটে সবচেয়ে বেশি যে টেকনোলজি গুলোর চাহিদা রয়েছে তার মধ্যে রিয়্যাক্ট এবং নেক্সট জে.এস একেবারে উপরের দিকে। দুটি টেকনোলজিই খুব দ্রুত আপডেট হয়েছে এবং সেটার সাথে তাল মিলাতে গিয়ে রীতিমত হিমসিম খেতে হচ্ছে ডেভেলপারদেরকে।",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [
+        {
+          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
+          "comment": "অনেক উপকারী",
+          "createdAt": "2024-02-24T12:36:38.047Z",
+          "author": {
+            "id": "ea168626-058e-49dd-b23c-3000e7bd0172",
+            "name": "Akash Ahmed",
+            "avatar": "uploads/avatar/akash.png"
+          }
+        },
+        {
+          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
+          "comment": "সুন্দর",
+          "createdAt": "2024-02-24T12:36:38.047Z",
+          "author": {
+            "id": "ea168626-058e-49dd-b23c-3000e7bd0173",
+            "name": "MD Salahuddin",
+            "avatar": "salahuddin@email.com"
+          }
+        },
+        {
+          "id": "bad6e068-58c5-4287-aea4-b00078863402",
+          "comment": "All Good",
+          "createdAt": "2024-02-24T21:47:16.009Z",
+          "author": {
+            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+            "name": "Saad Hasan",
+            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+          }
+        }
+      ],
+      "likes": [
+        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf"
+      ],
+      "createAt": "2024-02-24T12:18:21.686Z"
+    },
+    {
+      "id": "ed30b734-af45-4fae-be50-8b1e7c8ee929",
+      "content": "Happy Birthday Tapas Vai",
+      "image": "uploads/posts/image-1708777190872-111445232.jpg",
+      "postType": "image",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [
+        {
+          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
+          "comment": "Happy Birthday vai",
+          "createdAt": "2024-02-24T12:36:38.047Z",
+          "author": {
+            "id": "ea168626-058e-49dd-b23c-3000e7bd0172",
+            "name": "Akash Ahmed",
+            "avatar": "uploads/avatar/akash.png"
+          }
+        },
+        {
+          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
+          "comment": "শুভ জন্মদিন ভাই",
+          "createdAt": "2024-02-24T12:36:38.047Z",
+          "author": {
+            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+            "name": "Saad Hasan",
+            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+          }
+        },
+        {
+          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
+          "comment": "Many many happy returns of the day",
+          "createdAt": "2024-02-24T12:36:38.047Z",
+          "author": {
+            "id": "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
+            "name": "Sumit Saha",
+            "avatar": "uploads/avatar/avatar-1708777668890-622477379.png"
+          }
+        },
+        {
+          "id": "a0e37f88-ffc7-4fc7-952e-81370ff96269",
+          "comment": "সবাইকে অনেক অনেক ধন্যবাদ",
+          "createdAt": "2024-02-24T12:36:38.047Z",
+          "author": {
+            "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
+            "name": "Tapas Adhikary",
+            "avatar": "uploads/avatar/avatar-1708770640883-148182382.png"
+          }
+        },
+        {
+          "id": "093d2b40-099f-4d2d-8597-f09f47b87c95",
+          "comment": "Looks Great",
+          "createdAt": "2024-02-25T05:02:19.242Z",
+          "author": {
+            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+            "name": "Saad Hasan",
+            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+          }
+        },
+        {
+          "id": "3a302cb1-4470-4790-a0be-86eafc5b2e16",
+          "comment": "Awesome Looking",
+          "createdAt": "2024-02-25T05:02:46.988Z",
+          "author": {
+            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+            "name": "Saad Hasan",
+            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+          }
+        },
+        {
+          "id": "d9d9b141-fcb3-42e5-9d4f-763f4436dc8a",
+          "comment": "dushtu shonaPakhi",
+          "createdAt": "2024-12-24T11:43:46.895Z",
+          "author": {
+            "id": "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf",
+            "name": "Chumki shona",
+            "avatar": "uploads/avatar/avatar-1734952341675-954013291.jpg"
+          }
+        }
+      ],
+      "likes": [
+        "ea168626-058e-49dd-b23c-3000e7bd0172",
+        "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
+        "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
+        "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf"
+      ],
+      "createAt": "2024-02-09T12:19:50.876Z"
+    },
+    {
+      "id": "d17793ec-977b-4052-9903-9e4e39e6bf0f",
+      "content": "The Three Musketeers don't often have the chance to capture moments together and spend time collectively. Finally, we've seized an opportunity and are on our way to Kishoreganj, enjoying some quality time together.",
+      "image": "uploads/posts/image-1708777287639-896835049.jpg",
+      "postType": "image",
+      "author": {
+        "id": "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
+        "name": "Sumit Saha",
+        "avatar": "uploads/avatar/avatar-1708777668890-622477379.png"
+      },
+      "comments": [
+        {
+          "id": "78f790eb-5cf5-41aa-8ac2-b15f714c0b84",
+          "comment": "Hello",
+          "createdAt": "2024-02-25T05:08:29.949Z",
+          "author": {
+            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+            "name": "Saad Hasan",
+            "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+          }
+        }
+      ],
+      "likes": [
+        "ea168626-058e-49dd-b23c-3000e7bd0172",
+        "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
+        "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
+        "a0e37f88-ffc7-4fc7-952e-81370ff96269",
+        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf"
+      ],
+      "createAt": "2024-02-24T12:21:27.644Z"
+    },
+    {
+      "id": "e408bca4-90e5-4493-9817-f9ed05ca68f4",
+      "content": "এমন মানুষের সাথে বন্ধুত্ব করেন, যে আপনার থেকে আপনাদের বন্ধুত্বকে বেশী দাম দেয়।\n",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
+        "name": "Tapas Adhikary",
+        "avatar": "uploads/avatar/avatar-1708770640883-148182382.png"
+      },
+      "comments": [],
+      "likes": [
+        "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf"
+      ],
+      "createAt": "2024-02-24T12:29:59.028Z"
+    },
+    {
+      "id": "5f0e2fc2-39c2-4d65-8fe2-0bf10dc80d92",
+      "content": "বই আছে, কিন্তু পরার সময় নেই। আমি অবসরে ব্যাস্ততম।\nকিছু বই তো আবার নিজে নিজেই অবসর নিয়েছে…",
+      "image": "uploads/posts/image-1708777877789-380778733.jpg",
+      "postType": "image",
+      "author": {
+        "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
+        "name": "Tapas Adhikary",
+        "avatar": "uploads/avatar/avatar-1708770640883-148182382.png"
+      },
+      "comments": [
+        {
+          "id": "26b740ba-8abd-40df-9cc2-c1af4b9da1bb",
+          "comment": "ki dekhcho Tapash babu?",
+          "createdAt": "2024-12-24T12:16:28.242Z",
+          "author": {
+            "id": "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf",
+            "name": "Chumki shona",
+            "avatar": "uploads/avatar/avatar-1734952341675-954013291.jpg"
+          }
+        }
+      ],
+      "likes": [],
+      "createAt": "2024-02-24T12:31:17.794Z"
+    },
+    {
+      "id": "00ad2787-ec06-407c-9e5f-cd7acba20371",
+      "content": "While ESLint is designed to be run on the command line, it’s possible to use ESLint programmatically through the Node.js API. The purpose of the Node.js API is to allow plugin and tool authors to use the ESLint functionality directly, without going through the command line interface.\n\nNote: Use undocumented parts of the API at your own risk. Only those parts that are specifically mentioned in this document are approved for use and will remain stable and reliable. Anything left undocumented is unstable and may change or be removed at any point.",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [
+        "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf"
+      ],
+      "createAt": "2024-02-25T06:03:47.813Z"
+    },
+    {
+      "id": "82e8e57d-e7b8-4cfb-ac70-ff6283f0e8bf",
+      "content": "While ESLint is designed to be run on the command line, it’s possible to use ESLint programmatically through the Node.js API. The purpose of the Node.js API is to allow plugin and tool authors to use the ESLint functionality directly, without going through the command line interface.\n\nNote: Use undocumented parts of the API at your own risk. Only those parts that are specifically mentioned in this document are approved for use and will remain stable and reliable. Anything left undocumented is unstable and may change or be removed at any point.",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T06:25:58.990Z"
+    },
+    {
+      "id": "5360bba3-1c5e-4ca8-84b3-6af75932126c",
+      "content": "",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T06:27:12.076Z"
+    },
+    {
+      "id": "478c7100-6701-430e-bae2-2d6eebf4443f",
+      "content": "",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T06:29:42.901Z"
+    },
+    {
+      "id": "fabefae7-c26d-4c5b-b4e4-7c150c3cbfb4",
+      "content": "",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T06:35:20.401Z"
+    },
+    {
+      "id": "21c5d118-295f-4606-8147-e5a7570fa569",
+      "content": "I am good",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T06:36:33.889Z"
+    },
+    {
+      "id": "e8ef4c92-32b5-450a-a53a-8caef4032cb1",
+      "content": "cvbcvcv",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T06:49:49.663Z"
+    },
+    {
+      "id": "c43c2a81-224c-456b-97c0-e46df3eb4f6d",
+      "content": "test",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T06:50:11.588Z"
+    },
+    {
+      "id": "ea5c610c-89ed-480a-9ca1-7feb13f2bae4",
+      "content": "I dont know",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [
+        {
+          "id": "1e00e775-0131-4050-ab7c-7f4776b91a2a",
+          "comment": "why?",
+          "createdAt": "2024-12-24T12:16:46.749Z",
+          "author": {
+            "id": "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf",
+            "name": "Chumki shona",
+            "avatar": "uploads/avatar/avatar-1734952341675-954013291.jpg"
+          }
+        }
+      ],
+      "likes": [],
+      "createAt": "2024-02-25T06:57:46.023Z"
+    },
+    {
+      "id": "782bbca7-dea3-4705-92aa-f191635c141a",
+      "content": "123",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [
+        {
+          "id": "46a49bb3-59cf-4ea3-9376-18b52cd564b1",
+          "comment": "Hi",
+          "createdAt": "2024-02-25T09:04:10.370Z",
+          "author": {
+            "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+            "name": "Saad Hasan",
+            "avatar": "uploads/avatar/avatar-1708849386635-121791126.png"
+          }
+        }
+      ],
+      "likes": [
+        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56"
+      ],
+      "createAt": "2024-02-25T06:59:36.184Z"
+    },
+    {
+      "id": "ae7a9d01-a4aa-46ad-b58a-f9c0e5ba1bf2",
+      "content": "456",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T07:01:10.425Z"
+    },
+    {
+      "id": "23be0512-6a10-4e71-b8cd-2ae47d9d7971",
+      "content": "SEII",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T07:02:51.676Z"
+    },
+    {
+      "id": "e60c5172-ecb6-46b7-bd18-f66c8942a765",
+      "content": "SEII555",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T07:04:19.291Z"
+    },
+    {
+      "id": "024e0c2a-b9ac-443a-876d-7977c2c036fc",
+      "content": "last",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-02-25T07:16:53.349Z"
+    },
+    {
+      "id": "5f5d402b-622e-452a-8f8d-7c1fc99aa778",
+      "content": "",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf",
+        "name": "Chumki shona",
+        "avatar": "uploads/avatar/avatar-1734952341675-954013291.jpg"
+      },
+      "comments": [],
+      "likes": [
+        "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf"
+      ],
+      "createAt": "2024-12-26T19:40:15.046Z"
+    },
+    {
+      "id": "485e572d-ea38-4e6a-a668-50b796feea78",
+      "content": "",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf",
+        "name": "Chumki shona",
+        "avatar": "uploads/avatar/avatar-1734952341675-954013291.jpg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2024-12-26T20:13:08.681Z"
+    }
+  ],
+  "comments": [],
+  "users": [
+    {
+      "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+      "password": "$2b$08$t5Aar/0hgHTMdCeLtn3KhOlWDVIAHcFUTkRPeWASPhbYAea5kxKvW",
+      "firstName": "Saad",
+      "lastName": "Hasan",
+      "avatar": "uploads/avatar/avatar-1734530748742-544189019.jpeg",
+      "email": "saadh392@mail.com",
+      "bio": "Saad is an excellent member of LWS who keeps himself updated with technology and stays relevant. He is a tech enthusiast and does not hesitate to help developers in need. why its working??"
+    },
+    {
+      "id": "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
+      "password": "$2b$08$Ppzu84hycImxTC6C7jAuGOs6fNBf4z7RJ7nqNldd/Lcj5JQaegmBK",
+      "firstName": "Sumit",
+      "lastName": "Saha",
+      "avatar": "uploads/avatar/avatar-1708777668890-622477379.png",
+      "email": "sumitsaha@learnwithsumit.com"
+    },
+    {
+      "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
+      "password": "$2b$08$XLgmuBqthkljtrVqSXdnk.OotUpoGnArVSrn6CHHt/upkUGTX7N0C",
+      "firstName": "Tapas",
+      "lastName": "Adhikary",
+      "avatar": "uploads/avatar/avatar-1708770640883-148182382.png",
+      "email": "atapas@email.com",
+      "bio": "A Ghost"
+    },
+    {
+      "id": "ea168626-058e-49dd-b23c-3000e7bd0172",
+      "password": "$2b$08$Og7chSn5OMA4LpuzCFQGi.1j5bhGtX2q5efo1aARolnbzpZmbNMVO",
+      "firstName": "Akash",
+      "lastName": "Ahmed",
+      "avatar": "uploads/avatar/akash.png",
+      "email": "akash@email.com"
+    },
+    {
+      "id": "ea168626-058e-49dd-b23c-3000e7bd0173",
+      "password": "$2b$08$Og7chSn5OMA4LpuzCFQGi.1j5bhGtX2q5efo1aARolnbzpZmbNMVO",
+      "firstName": "MD",
+      "lastName": "Salahuddin",
+      "avatar": "uploads/avatar/607270927370289259_n.jpg",
+      "email": "salahuddin@email.com"
+    },
+    {
+      "id": "8fea109f-9c4a-45de-8b53-9b6a9a386e02",
+      "password": "$2b$08$usstcONuQ3QEytuzO8NQbe7hA3X4UMHfCdjfzRtiygzIe3exOuUWe",
+      "firstName": "Rambo",
+      "lastName": "Bony",
+      "avatar": "uploads/avatar/avatar-1708802845791-219561000.png",
+      "email": "rambo@email.com",
+      "bio": "I am Rambo!!!"
+    },
+    {
+      "id": "97dfcfe9-6c1d-4523-bbf4-3e70c9338643",
+      "password": "$2b$08$UZejesbzZbvQ1ZSTV3dsGOLGyPa3TqWcSBcNSJNXhfihNYbpfNqSG",
+      "firstName": "ghdhcgxch",
+      "lastName": "Hasib",
+      "avatar": null,
+      "email": "juqefmcdougal@gmail.com"
+    },
+    {
+      "id": "e9a3abd0-2ea7-4efe-94ad-fe4a701b48cf",
+      "password": "$2b$08$wImXDbBm/.Il3nlsBKWBg.5zk/Ldjk/hD3wxsvJsTVOuFhtactOL2",
+      "firstName": "Chumki",
+      "lastName": "shona",
+      "avatar": "uploads/avatar/avatar-1737486409274-264756005.jpg",
+      "email": "chumkishona@email.com",
+      "bio": "chumki143 >> moner Password "
+    }
+  ]
+}
